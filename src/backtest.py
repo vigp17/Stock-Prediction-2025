@@ -43,4 +43,4 @@ def run_backtest_and_plot(data: pd.DataFrame, model, threshold: float = 0.53):
     
     plot_results(test_data)
     
-    test_data.to_csv("../results/predictions_2025.csv", index=False)
+    test_data.to_csv("results/predictions_2025.csv", index=False)
