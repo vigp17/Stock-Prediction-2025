@@ -1,5 +1,5 @@
 # Stock Return Prediction using Machine Learning (AAPL 2025)
-
+![AAPL ML Strategy vs Buy & Hold](results/AAPL_ML_vs_BuyHold_2025.png)
 Personal project — built from scratch to predict next-day AAPL direction using only technical indicators.
 
 ### Results (strict out-of-sample 2023–2025)
